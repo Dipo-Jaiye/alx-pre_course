@@ -1,9 +1,9 @@
-# ALX Foundations
+# ALX 0x01-git
 ## What the project does
-Demonstrates coursework from ALX pre course
+Demonstrates knowledge of git command line usage
 
 ## Why is it useful
-It is helpful to practice all the learned concepts
+It is foundational for software developers to work with source control
 
 ## How to get started
 * Create a repo
