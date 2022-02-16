@@ -3,7 +3,7 @@
 Demonstrates knowledge of git command line usage
 
 ## Why is it useful
-It is foundational for software developers to work with source control
+It is foundational for software developers to work with source control and be familiar with git commands too
 
 ## How to get started
 * Create a repo
